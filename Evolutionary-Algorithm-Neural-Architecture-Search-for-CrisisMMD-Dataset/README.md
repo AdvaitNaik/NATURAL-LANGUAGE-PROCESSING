@@ -1,1 +1,3 @@
 
+The project proposes an evolutionary algorithm for neural architecture search in natural language processing (NLP) tasks. The proposed methodology involves exploring the dataset, preprocessing the data, representing neural networks as a genome, and implementing the evolutionary algorithm. The neural networks are represented as directed acyclic graphs (DAGs),
+and the evolutionary algorithm generates an initial population of DAGs, applies genetic operators - crossover and mutation, and evaluates the fitness of the resulting DAGs using the CrisisMMD dataset. The proposed method aims to construct formidable neural networks for NLP tasks, providing a useful technique for classification tasks. These results are compared to traditional Machine Learning methods.
